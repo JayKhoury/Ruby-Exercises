@@ -1,0 +1,6 @@
+first = "Jay"
+last = "Khoury"
+
+puts first + " " + last
+puts "Jay" + " " + "Khoury"
+puts "#{first} #{last}"

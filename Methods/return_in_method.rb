@@ -5,7 +5,7 @@ def scream(words)
 
 	words = words + "!!!"
 
-	return 
+return
 
 	puts words
 
